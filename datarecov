@@ -3,8 +3,8 @@
         "AdsController": {
             
             "NetworkAds": "admob",
-            "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-            "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+            "BannerAdmob": "ca-app-pub-5108338975350945/5671601563",
+            "InterstitialAdmob": "ca-app-pub-5108338975350945/4494251261",
             "NativeAdmob": "ca-app-pub-3940256099942544/224769611",
 
 
